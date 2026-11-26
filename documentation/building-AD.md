@@ -1,4 +1,4 @@
-# Building Active Directory Simulation Lab  
+# Building Active Directory Lab  
 
 ## Overview
 
