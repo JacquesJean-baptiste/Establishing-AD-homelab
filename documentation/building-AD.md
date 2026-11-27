@@ -1,15 +1,14 @@
 # Building Active Directory Lab  
 
 ## Overview
-This project is a walkthrough on how I established a virtualized Active Directory environment in VMWare Workstation, using a Windows Server 2022 domain controller to host my testlab.local domain and simulate a small enterprise network.
+This project is a brief walkthrough on how I established a virtualized Active Directory environment in VMWare Workstation, using a Windows Server 2022 domain controller to host my testlab.local domain and simulate a small enterprise network.
 
 ---
 
 ### What Skills Will Be Displayed
 - Virtualization 
-- Active Directory and identity management
+- Active Directory and identity access management
 - Group Policy Management
-- 
 
 ### How the Lab Is Set Up
 
