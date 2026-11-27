@@ -10,13 +10,19 @@ This project is a brief walkthrough on how I established a virtualized Active Di
 - Active Directory and identity access management
 - Group Policy Management
 
+---
+
 ### How the Lab Is Set Up
 
 
 #### Step 0: Before Getting Started
-Before I could build the Windows server and Active Directory environments, I first needed to meet a few prerequisites. In order to use Active Directory, I needed to have VMWare Workstation installed on my PC, and I needed to download the Windows Server ISO that would be needed to establish the Windows server.
+Before I could build the Windows server and Active Directory environments, I first needed to meet a few prerequisites. In order to use Active Directory, I needed to have VMWare Workstation installed on my PC.
 
 <img width="950" height="392" alt="0-01 workstation-install" src="https://github.com/user-attachments/assets/e2c8ad73-6e33-43b9-8fca-440988e5b8a2" />
+
+---
+
+I also would need to download the Windows Server ISO that would be used to establish the Windows server.
 
 <img width="949" height="438" alt="0-02 server-ISO-download" src="https://github.com/user-attachments/assets/7c70b10e-e3e6-45bd-aed3-8d3140da7b4b" />
 
