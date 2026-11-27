@@ -14,6 +14,8 @@ This project is a brief walkthrough on how I established a virtualized Active Di
 
 
 #### Step 0: Before Getting Started
+Before I could build the Windows server and Active Directory environments, I first needed to meet a few prerequisites. In order to use Active Directory, I needed to have VMWare Workstation installed on my PC, and I needed to download the Windows Server ISO that would be needed to establish the Windows server.
+
 
 
 #### Step 1: Creating a New VM
