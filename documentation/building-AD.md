@@ -124,6 +124,12 @@ After the reboot, I opened Active Directory Users and Computers (ADUC) from the 
 
 ---
 
+As the final part of step 4, for the purpose of the simulation, I opened group policy management and navigated to the security settings in the Windows computer configuration policies to allow my "employees" group to log on to the DC locally
+
+<img width="958" height="458" alt="4-07 local-logon" src="https://github.com/user-attachments/assets/69b57a49-63c3-4949-a5b0-2d019e552cb5" />
+
+---
+
 
 #### Step 5: Creating Organizational Units (OUs)
 
