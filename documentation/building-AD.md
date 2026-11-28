@@ -142,4 +142,12 @@ I named the first OU 'Employees' and left 'Protect container from accidental del
 
 #### Step 6: What I Learned
 
+This lab showed me how the layers of a Windows environment fit together and how they relate to everyday help desk work. Running the server in VMware taught me how a hypervisor allocates hardware resources, which helps when troubleshooting VMs or reproducing user issues in a safe test environment. Building Active Directory, DNS, and Organizational Units showed me how user identities are created, structured, and authenticated, which supports core help desk tasks like password resets, account lockouts, onboarding, and offboarding. Installing Group Policy Management also gave me context for how policies linked to OUs control settings like password rules and desktop configuration, so I know where to look when a setting isn't applying to a user.
+
+---
+
 #### Step 7: Final Thoughts
+
+This project gave me hands-on experience with the same core technologies used in enterprise IT environments, and it connected concepts from my A+ studies to real administration work. Building the environment from scratch showed me how each layer depends on the one before it: the hypervisor, the operating system, the directory service, and then the organizational structure. The prerequisite warnings, like the missing static IP, also reminded me that production environments require more planning than a lab. Next, I plan to assign a static IP, create users and groups, apply Group Policy Objects, and join a Windows client VM to the domain. These steps will build the skills that help desk and sysadmin roles use every day, like account management and password resets.
+
+---
